@@ -1,0 +1,91 @@
+.remove-add-circle {
+    background: red;
+}
+
+.search-icon {
+    position: absolute;
+    top: 287px;
+    left: 60px;
+    color: #a6a3a3;
+}
+
+.input-text {
+    width: 100%;
+    padding: 7px 10px 10px 40px;
+    border-radius: 10px;
+    background: #f0eded;
+    border: none;
+}
+
+.camera-icon {
+    position: absolute;
+    top: 286px;
+    right: 66px;
+    color: #9e9696;
+}
+
+.left-border-css {
+    position: absolute;
+    border-left: 3px solid #b09f9f;
+    top: 286px;
+    right: 95px;
+    height: 29px;
+}
+
+.price {
+    font-size: 25px;
+}
+
+.remove-add-circle {
+    background: #e3d8d8;
+    border-radius: 10px;
+    justify-content: space-between;
+    padding: 2px;
+    margin: 0 auto;
+    width: 175px;
+
+}
+
+.proceed-to-buy {
+    text-align: center;
+    background: #ef8a3a;
+    color: white;
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px 25px 10px 25px;
+    border-radius: 10px;
+}
+
+.whatsapp-icon {
+    color: #ef8a3a;
+
+}
+
+.sidemenu {
+    color: #ef8a3a;
+}
+
+.total-price-css {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.delete-button {
+    border: 3px solid #ef8a3a;
+    border-radius: 30px;
+    padding: 0px 35px 0px 35px;
+    color: #ef8a3a;
+    background: white;
+    font-size: 17px;
+}
+
+.button-more {
+    border-radius: 30px;
+    border: none;
+    padding: 6px 35px 3px 35px;
+    color: white;
+    background: #ef8a3a;
+    font-size: 16px;
+    margin-left: 10px;
+    width: 200px;
+}

@@ -1,0 +1,32 @@
+.login-page-wrapepr{
+    position: absolute;
+    top: 150px;
+    margin: 0 auto;
+    
+    background: white;
+    padding: 35px;
+    border-radius: 10px;
+    left: 650px;
+}
+.email{
+    margin-left: 10px;
+}
+.password{
+    margin-left: 10px;
+}
+.login{
+    text-align: center;
+    background: #e51616c4;
+    width: 200px;
+    margin: 0 auto;
+    padding: 10px 40px 10px 38px;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+}
+.sign-up{
+    border-bottom: 1px solid;
+}
+.checkcircle-icon{
+    font-size: 12px;
+}
